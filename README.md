@@ -11,3 +11,5 @@ How It Works:
 X's Won: 5852 (58.52%)
 O's Won: 2816 (28.16%)
 Ties: 1332 (13.32%)</pre>
+
+So basically the game is rigged would not recommend betting your money XD.
