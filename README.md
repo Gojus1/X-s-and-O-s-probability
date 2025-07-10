@@ -1,2 +1,13 @@
 # X-s-and-O-s-probability
 Was bored, so wanted to proof that the game tic tac toe or otherwise know as X's and O's game is fair
+
+How It Works
+* Each bot makes random moves.
+* The game ends when a bot wins or the board is full (meaning a tie).
+* The simulation runs multiple games (default: 10000) and prints the results.
+
+* Expected result:
+<pre> ```txt After 10000 games:
+X's Won: 5852 (58.52%)
+O's Won: 2816 (28.16%)
+Ties: 1332 (13.32%)``` </pre>
